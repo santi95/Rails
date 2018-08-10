@@ -6,18 +6,10 @@ body {
     background-image: url("/assets/background.jpg");
 }  
 
-.main-title{
-    color: rgb(202, 133, 30);
-    font-size: 100px;
-    background-color: grayscale($color: #000000);
-}
-
 
 @import url(https://fonts.googleapis.com/css?family=Arvo:700);
 @import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
-body {
-  background-color: #222;
-}
+
 .plate {
   width: 410px;
   margin: 10% auto;

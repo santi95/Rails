@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  model: MyString
+  brand: MyString
+  year: 1.5
+  wheelSize: 1.5
+  headTubeAngle: 1.5
+  seatTubeAngle: 1.5
+  reach: 1.5
+  topTubeLength: 1.5
+  stack: 1.5
+  chainstay: 1.5
+  bottomBracketHeight: 1.5
+  wheelbase: 1.5
+  seatTubeLength: 1.5
+
+two:
+  model: MyString
+  brand: MyString
+  year: 1.5
+  wheelSize: 1.5
+  headTubeAngle: 1.5
+  seatTubeAngle: 1.5
+  reach: 1.5
+  topTubeLength: 1.5
+  stack: 1.5
+  chainstay: 1.5
+  bottomBracketHeight: 1.5
+  wheelbase: 1.5
+  seatTubeLength: 1.5
